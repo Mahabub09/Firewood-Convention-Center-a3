@@ -7,6 +7,10 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
+.form-bg{
+    background-color: aliceblue;
+}
+
 @media only screen and (max-width:576px) {
     .banner-img{
         /* height: 500px; */
