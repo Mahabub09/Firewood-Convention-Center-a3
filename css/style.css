@@ -13,5 +13,12 @@
         min-height: 500px;
         
     }
+    .container-flex{
+        flex-direction: column;
+        justify-items: center;
+    }
+    .people-img{
+        width: 100%;
+    }
     
 }
